@@ -1,0 +1,2 @@
+FROM devopseasylearning/s7rosine-do-it-yourself-orders-db:8.0
+ENV APP=REVIVE
